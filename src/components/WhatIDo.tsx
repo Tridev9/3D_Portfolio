@@ -91,7 +91,7 @@ const WhatIDo = () => {
               <h4>Description</h4>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                quia aliquid laboriosam ducimus sit molestiae.dhk
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
